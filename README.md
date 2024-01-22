@@ -11,6 +11,10 @@ This is the backend application for an E-Commerce website. It provides RESTful A
 - [Models](#models)
 - [Contributing](#contributing)
 - [License](#license)
+  
+## Mock up
+![13-orm-homework-demo-01](https://github.com/Jay1194/E-commerce-backEnd/assets/105843570/c29c3e54-106b-4140-a1e5-bfde49b60afe)
+![13-orm-homework-demo-02](https://github.com/Jay1194/E-commerce-backEnd/assets/105843570/b6a56395-d11a-4e5f-aeb2-b171002f1e87)
 
 ## Installation
 
